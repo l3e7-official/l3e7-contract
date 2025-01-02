@@ -1,0 +1,21 @@
+{
+  "name": "l3e7-contract",
+  "version": "1.0.0",
+  "description": "[Node.js](https://nodejs.org/en/)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bingo",
+  "license": "ISC",
+  "github": "https://github.com/l3e7-official/l3e7-contract",
+  "dependencies": {
+    "@openzeppelin/contracts": "5.0.0",
+    "@openzeppelin/contracts-upgradeable": "5.0.0"
+  },
+  "devDependencies": {
+  }
+}
